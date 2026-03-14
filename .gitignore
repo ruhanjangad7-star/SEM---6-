@@ -44,3 +44,5 @@ venv/
 *.njsproj
 *.sln
 *.sw?
+/admin/
+/pro img/mac/
